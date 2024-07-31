@@ -1,3 +1,5 @@
+// My Solution
+
 function twoSum(nums: number[], target: number): number[] {
   const numbers = nums;
 
